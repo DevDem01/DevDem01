@@ -11,18 +11,18 @@ I enjoy learning how technology works, solving problems, and creating projects t
 
 ### 📚 What I'm Learning:
 ---
--Java programming
--Web development with HTML, CSS, and JavaScript
--Data structures and algorithms
--Object-oriented programming
--Computer science fundamentals
+-Java programming<br>
+-Web development with HTML, CSS, and JavaScript<br>
+-Data structures and algorithms<br>
+-Object-oriented programming<br>
+-Computer science fundamentals<br>
 
 ### 🎯 Goals:
 ---
--Build strong software development projects
--Improve my problem-solving skills
--Grow as a future software engineer
--Continue gaining real-world technical experience
+-Build strong software development projects<br>
+-Improve my problem-solving skills<br>
+-Grow as a future software engineer<br>
+-Continue gaining real-world technical experience<br>
 
 ### 🛠️ Tech Stack:
 ---
