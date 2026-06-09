@@ -39,4 +39,3 @@ I enjoy learning how technology works, solving problems, and creating projects t
 [![Email](https://img.shields.io/badge/Email-F54927?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demarcusstudmire22@gmail.com)
 
 
-![](https://i.gifer.com/Ry6p.gif)
