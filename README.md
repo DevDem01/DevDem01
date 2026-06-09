@@ -40,7 +40,7 @@ I enjoy learning how technology works, solving problems, and creating projects t
 
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6a286c36a2248191aaafea70b7ea1da2" width="400" alt="Coding GIF">
+  <img src="./lofi.png" width="400" alt="Coding GIF">
 </p>
 
 
