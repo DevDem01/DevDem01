@@ -1,6 +1,6 @@
  # 👨🏾‍💻 About Me
 ##  Hi, I'm DeMarcus Studmire 👋
----
+
  
 🌱 Computer Science Student @ University of Alabama at Birmingham 
 
@@ -11,21 +11,21 @@ I enjoy learning how technology works, solving problems, and creating projects t
 
 ### 📚 What I'm Learning:
 ---
-Java programming
-Web development with HTML, CSS, and JavaScript
-Data structures and algorithms
-Object-oriented programming
-Computer science fundamentals
+-Java programming
+-Web development with HTML, CSS, and JavaScript
+-Data structures and algorithms
+-Object-oriented programming
+-Computer science fundamentals
 
 ### 🎯 Goals:
 ---
-Build strong software development projects
-Improve my problem-solving skills
-Grow as a future software engineer
-Continue gaining real-world technical experience
-Connect With Me
+-Build strong software development projects
+-Improve my problem-solving skills
+-Grow as a future software engineer
+-Continue gaining real-world technical experience
 
 ### 🛠️ Tech Stack:
+---
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
