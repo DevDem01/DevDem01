@@ -40,7 +40,7 @@ I enjoy learning how technology works, solving problems, and creating projects t
 
 
 <p align="center">
-  <img src="(https://i.gifer.com/YQgT.gif)" width="400" alt="Coding GIF">
+  <img src="https://i.gifer.com/YQgT.gif" width="400" alt="Coding GIF">
 </p>
 
 
