@@ -36,4 +36,4 @@ I enjoy learning how technology works, solving problems, and creating projects t
 ### 🤝 Socials:
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2746F5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demarcuss/)
-[![Email](https://img.shields.io/badge/LinkedIn-F54927?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:demarcusstudmire22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-F54927?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demarcusstudmire22@gmail.com)
